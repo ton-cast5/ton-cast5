@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="350" viewBox="0 0 760 350" xml:space="preserve">
+  <style>
+    text { font-family: 'Fira Code', 'JetBrains Mono', 'Cascadia Code', Consolas, monospace; font-size: 15px; }
+    .title { fill: #565f89; font-size: 13px; }
+    .p { fill: #38bdae; font-weight: 600; }
+    .s { fill: #565f89; }
+    .d { fill: #70a5fd; font-weight: 600; }
+    .c { fill: #c0caf5; }
+    .o { fill: #a9b1d6; }
+    .g { fill: #9ece6a; }
+    .v { fill: #bf91f3; font-weight: 700; }
+    .y { fill: #e0af68; }
+  </style>
+
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#70a5fd"/>
+      <stop offset="100%" stop-color="#bf91f3"/>
+    </linearGradient>
+    <clipPath id="c1"><rect x="0" y="55" width="0" height="30"><animate attributeName="width" from="0" to="760" dur="1s" begin="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="115" width="0" height="30"><animate attributeName="width" from="0" to="760" dur="1s" begin="2.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="175" width="0" height="30"><animate attributeName="width" from="0" to="760" dur="1.2s" begin="4.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="235" width="0" height="30"><animate attributeName="width" from="0" to="760" dur="1s" begin="6.4s" fill="freeze"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="348" rx="12" fill="#1a1b27" stroke="url(#border)" stroke-width="1.5"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h734 a12 12 0 0 1 12 12 v25 h-758 z" fill="#16161e"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="380" y="24" text-anchor="middle" class="title">miguel@dev: ~</text>
+
+  <g clip-path="url(#c1)">
+    <text x="24" y="75"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">whoami</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>
+    <text x="24" y="105" class="o">Miguel Antonio  Software Developer · Ing. en Sistemas Computacionales</text>
+  </g>
+
+  <g clip-path="url(#c3)">
+    <text x="24" y="135"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">cat stack.txt</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.6s" fill="freeze"/>
+    <text x="24" y="165" class="y">Python · JavaScript · SQL · Flask · PostgreSQL · Supabase · Tailwind</text>
+  </g>
+
+  <g clip-path="url(#c5)">
+    <text x="24" y="195"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">./fibra-manager --status</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.7s" fill="freeze"/>
+    <text x="24" y="225" class="g"> clientes    NAPs    mediciones    inventario    documentación</text>
+  </g>
+
+  <g clip-path="url(#c7)">
+    <text x="24" y="255"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">echo $MOTTO</tspan></text>
+  </g>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="7.6s" fill="freeze"/>
+    <text x="24" y="285" class="v">Build. Learn. Solve. Repeat.</text>
+  </g>
+
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="8.2s" fill="freeze"/>
+    <text x="24" y="315"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">‹<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+  </g>
+</svg>
