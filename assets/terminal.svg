@@ -35,7 +35,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>
-    <text x="24" y="105" class="o">Miguel Antonio  Software Developer · Ing. en Sistemas Computacionales</text>
+    <text x="24" y="105" class="o">Miguel Antonio &#8212; Software Developer &#183; Ing. en Sistemas Computacionales</text>
   </g>
 
   <g clip-path="url(#c3)">
@@ -43,7 +43,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.6s" fill="freeze"/>
-    <text x="24" y="165" class="y">Python · JavaScript · SQL · Flask · PostgreSQL · Supabase · Tailwind</text>
+    <text x="24" y="165" class="y">Python &#183; JavaScript &#183; SQL &#183; Flask &#183; PostgreSQL &#183; Supabase &#183; Tailwind</text>
   </g>
 
   <g clip-path="url(#c5)">
@@ -51,7 +51,7 @@
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.7s" fill="freeze"/>
-    <text x="24" y="225" class="g"> clientes    NAPs    mediciones    inventario    documentación</text>
+    <text x="24" y="225" class="g">&#10004; clientes   &#10004; NAPs   &#10004; mediciones   &#10004; inventario   &#10004; documentaci&#243;n</text>
   </g>
 
   <g clip-path="url(#c7)">
@@ -64,6 +64,6 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="8.2s" fill="freeze"/>
-    <text x="24" y="315"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">‹<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+    <text x="24" y="315"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">&#9611;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
   </g>
 </svg>
