@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=220&section=header&text=Miguel%20Antonio&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descSize=18&descAlignY=58" width="100%" alt="Miguel Antonio"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:7f5af0&height=220&section=header&text=Tony%20Garcia&fontSize=64&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Developer%20%C2%B7%20Ingenier%C3%ADa%20en%20Sistemas%20Computacionales&descSize=18&descAlignY=58" width="100%" alt="Miguel Antonio"/>
 </p>
 
 <p align="center">
