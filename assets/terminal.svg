@@ -28,18 +28,18 @@
   <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="20" r="6" fill="#27c93f"/>
-  <text x="380" y="24" text-anchor="middle" class="title">miguel@dev: ~</text>
+  <text x="380" y="24" text-anchor="middle" class="title">Tony@dev: ~</text>
 
   <g clip-path="url(#c1)">
-    <text x="24" y="75"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="24" y="75"><tspan class="p">Tony@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">whoami</tspan></text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.7s" fill="freeze"/>
-    <text x="24" y="105" class="o">Miguel Antonio &#8212; Software Developer &#183; Ing. en Sistemas Computacionales</text>
+    <text x="24" y="105" class="o">Tony Garcia &#8212; Software Developer &#183; Ing. en Sistemas Computacionales</text>
   </g>
 
   <g clip-path="url(#c3)">
-    <text x="24" y="135"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">cat stack.txt</tspan></text>
+    <text x="24" y="135"><tspan class="p">Tony@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">cat stack.txt</tspan></text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.6s" fill="freeze"/>
@@ -47,7 +47,7 @@
   </g>
 
   <g clip-path="url(#c5)">
-    <text x="24" y="195"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">./fibra-manager --status</tspan></text>
+    <text x="24" y="195"><tspan class="p">Tony@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">./fibra-manager --status</tspan></text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="5.7s" fill="freeze"/>
@@ -55,7 +55,7 @@
   </g>
 
   <g clip-path="url(#c7)">
-    <text x="24" y="255"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">echo $MOTTO</tspan></text>
+    <text x="24" y="255"><tspan class="p">Tony@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">echo $MOTTO</tspan></text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="7.6s" fill="freeze"/>
@@ -64,6 +64,6 @@
 
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.1s" begin="8.2s" fill="freeze"/>
-    <text x="24" y="315"><tspan class="p">miguel@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">&#9611;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
+    <text x="24" y="315"><tspan class="p">Tony@dev</tspan><tspan class="s">:</tspan><tspan class="d">~</tspan><tspan class="s">$ </tspan><tspan class="c">&#9611;<animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
   </g>
 </svg>
